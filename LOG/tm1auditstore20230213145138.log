@@ -50,4 +50,74 @@
 <Commit ts="20230213164831" client="Admin">
 "129","REC_Preco_Custo_Carga","A regra para o cubo 'REC_Preco_Custo_Carga' foi modificada."
 </Commit>
+<Commit ts="20230213165119" client="">
+"40","Planejamento","O servidor 'Planejamento' foi iniciado."
+<Details>
+"122","Planejamento","FALSE","A propriedade ChangedSinceLoaded foi configurada como 'FALSE' para o servidor 'Planejamento'."
+"87","Planejamento","0","A propriedade PasswordMinimumLength foi configurada como '0' para o servidor 'Planejamento'."
+"90","Planejamento","TRUE","A propriedade UserDefinedCalculations foi configurada como 'TRUE' para o servidor 'Planejamento'."
+"97","Planejamento","10240","A propriedade MaximumMemoryForSubsetUndo foi configurada como '10240' para o servidor 'Planejamento'."
+"84","Planejamento","Not Set","A propriedade SaveTime foi configurada como 'Not Set' para o servidor 'Planejamento'."
+"85","Planejamento","Not Set","A propriedade DownTime foi configurada como 'Not Set' para o servidor 'Planejamento'."
+"86","Planejamento","50","A propriedade CalculationThresholdForStorage foi configurada como '50' para o servidor 'Planejamento'."
+"88","Planejamento","0","A propriedade IdleConnectionTimeOutSeconds foi configurada como '0' para o servidor 'Planejamento'."
+"89","Planejamento","500","A propriedade MaximumViewSize foi configurada como '500' para o servidor 'Planejamento'."
+"163","Planejamento","FALSE","A propriedade DisableSandboxing foi configurada como 'FALSE' para o servidor 'Planejamento'."
+"162","Planejamento","500","A propriedade MaximumUserSandboxSize foi configurada como '500' para o servidor 'Planejamento'."
+"91","Planejamento","3","A propriedade MaximumLoginAttempts foi configurada como '3' para o servidor 'Planejamento'."
+"92","Planejamento","110801300","A propriedade ClientVersionMaximum foi configurada como '110801300' para o servidor 'Planejamento'."
+"93","Planejamento","80000001","A propriedade ClientVersionMinimum foi configurada como '80000001' para o servidor 'Planejamento'."
+"165","Planejamento","0","A propriedade ClientVersionPrecision foi configurada como '0' para o servidor 'Planejamento'."
+"94","Planejamento","3000000","A propriedade CheckFeedersMaximumCells foi configurada como '3000000' para o servidor 'Planejamento'."
+"95","Planejamento","USE_SQL_FETCH_NOT_SET","A propriedade SQLFetchType foi configurada como 'USE_SQL_FETCH_NOT_SET' para o servidor 'Planejamento'."
+"82","Planejamento","TRUE","A propriedade AuditLogOn foi configurada como 'TRUE' para o servidor 'Planejamento'."
+"153","Planejamento","104857600","A propriedade AuditLogMaxFileSize foi configurada como '104857600' para o servidor 'Planejamento'."
+"35","Planejamento","104857600","A propriedade AuditLogMaxQueryMemory foi configurada como '104857600' para o servidor 'Planejamento'."
+"154","Planejamento","104857600","A propriedade AuditLogMaxTempFileSize foi configurada como '104857600' para o servidor 'Planejamento'."
+"155","Planejamento","1","A propriedade AuditLogUpdateInterval foi configurada como '1' para o servidor 'Planejamento'."
+"101","Planejamento","1e-08","A propriedade SpreadingPrecision foi configurada como '1e-08' para o servidor 'Planejamento'."
+"102","Planejamento","0","A propriedade ReceiveProgressResponseTimeoutSecs foi configurada como '0' para o servidor 'Planejamento'."
+"166","Planejamento","TRUE","A propriedade ParallelInteraction foi configurada como 'TRUE' para o servidor 'Planejamento'."
+"185","Planejamento","FALSE","A propriedade ServerCalculationCachePartitioning foi configurada como 'FALSE' para o servidor 'Planejamento'."
+</Details>
+</Commit>
+<Commit ts="20230213165137" client="Admin">
+"144","Admin","192.168.0.105","O usuário 'Admin' efetuou login com êxito a partir do endereço '192.168.0.105'."
+</Commit>
+<Commit ts="20230213170259" client="Admin">
+"7","_Teste_GIT","O novo processo '_Teste_GIT' foi criado."
+</Commit>
+<Commit ts="20230213170333" client="Admin">
+"127","_Teste_GIT","O processo '_Teste_GIT' foi modificado."
+</Commit>
+<Commit ts="20230213170412" client="Admin">
+"127","_Teste_GIT","O processo '_Teste_GIT' foi modificado."
+</Commit>
+<Commit ts="20230213171151" client="Admin">
+"127","_Teste_GIT","O processo '_Teste_GIT' foi modificado."
+</Commit>
+<Commit ts="20230213171153" client="Admin">
+"127","_Teste_GIT","O processo '_Teste_GIT' foi modificado."
+</Commit>
+<Commit ts="20230213171209" client="Admin">
+"127","_Teste_GIT","O processo '_Teste_GIT' foi modificado."
+</Commit>
+<Commit ts="20230213171210" client="Admin">
+"39","_Teste_GIT","O processo '_Teste_GIT' foi executado."
+</Commit>
+<Commit ts="20230213171453" client="Admin">
+"127","_Teste_GIT","O processo '_Teste_GIT' foi modificado."
+</Commit>
+<Commit ts="20230213171454" client="Admin">
+"39","_Teste_GIT","O processo '_Teste_GIT' foi executado."
+</Commit>
+<Commit ts="20230213171526" client="Admin">
+"127","_Teste_GIT","O processo '_Teste_GIT' foi modificado."
+</Commit>
+<Commit ts="20230213171527" client="Admin">
+"39","_Teste_GIT","O processo '_Teste_GIT' foi executado."
+</Commit>
+<Commit ts="20230213171545" client="Admin">
+"127","_Teste_GIT","O processo '_Teste_GIT' foi modificado."
+</Commit>
 

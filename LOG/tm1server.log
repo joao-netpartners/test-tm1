@@ -4893,3 +4893,280 @@
 10780   [2]   INFO   2023-02-13 16:48:01.265   TM1.Dimension   Dimension 01_REC_Preco_Custo_Carga changed by user Admin
 10780   [2]   INFO   2023-02-13 16:48:31.325   TM1.Server   TM1CubeImpl::ProcessFeeders: Computing feeders for base cube 'REC_Preco_Custo_Carga'.
 10780   [2]   INFO   2023-02-13 16:48:31.325   TM1.Server   TM1CubeImpl::ProcessFeeders(in 0ms): Done computing feeders for base cube 'REC_Preco_Custo_Carga'.
+2023-02-13 16:51:18 GMT  Shared memory reader PID 11980 started, for shmem "tm1s.exe-19432_1"
+4636   []   INFO   2023-02-13 16:51:18.645   TM1.Server   Data Directory: c:\apps\planejamento\modelo
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Admin Host: NET1797
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Logging Directory: c:\apps\planejamento\log
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Configuration Directory: c:\apps\planejamento\cfg
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Raw Store Directory: c:\apps\planejamento\modelo
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Port: 47907
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   HTTPPort: 47909
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Client Message Port: 47908
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Client Message Port does not accept Tm1Top connections.
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   IP Version: ipv4
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   SSL Mode: 1
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Key File: C:\Program Files\ibm\cognos\tm1_64\bin64\ssl\ibmtm1.kdb
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Key Stash File: C:\Program Files\ibm\cognos\tm1_64\bin64\ssl\ibmtm1.sth
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   FIPS Operation Mode: 2
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   NIST SP800 131A Mode: 1
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Certificate Authority: 
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Client Export Server Certificate: 0
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Security Mode: 1
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Use Generic Login Connect Error: 
+4636   []   INFO   2023-02-13 16:51:18.651   TM1.Server   Start time: Mon Feb 13 2023     01:51:18 PM
+4636   []   INFO   2023-02-13 16:51:18.664   TM1.Server   Windows reports the locale as Portugu�s (Brasil)
+4636   []   INFO   2023-02-13 16:51:18.665   TM1.Server   Windows reports the locale as Portugu�s (Brasil)
+4636   []   INFO   2023-02-13 16:51:18.847   TM1.Server    O servidor usará a Interação Paralela.
+4636   []   INFO   2023-02-13 16:51:18.847   TM1.Server    A Porta de Mensagem do Cliente não aceita conexões Tm1Top.
+4636   []   INFO   2023-02-13 16:51:18.847   TM1.Server    SmartCache está desativado
+15700   []   INFO   2023-02-13 16:51:18.850   TM1.Server   Starting HTTP Session Timeout thread.  Thread Id: 15700
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MTQ é ativado com 8 encadeamentos
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    AllowReadOnlyChoreReschedule está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    AllowSeparateNandCRules está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    AllRuleCalcStargateOptimization está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ApplyMaximumViewSizeToEntireTransaction está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    O Log de Auditoria está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    AuditLogMaxFileSize está configurado para 104857600 bytes
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    AuditLogMaxQueryMemory está configurado para 104857600 bytes
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    AuditLogUpdateInterval está configurado para 1 minutos
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    AutomaticallyAddCubeDependencies está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    CacheFriendlyMalloc está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    CalculationThresholdForStorage está configurado como 50
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    CheckFeedersMaximumCells está configurado como 3000000
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ClientPropertiesSyncInterval está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ClientVersionMaximum está configurado como 110801300
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ClientVersionMinimum está configurado como 80000001
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ClientVersionPrecision está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    DefaultMeasuresDimension está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    DisableMemoryCache está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    DisableSandboxing está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    DISPLAY_INFO_DBTYPE_R8 está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    DistributedPlanningOutputDir está configurado como tunit
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    Excel Web Publish está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ForceReevaluationOfFeedersForFedCellsOnDataChange está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    HTTPSessionTimeoutMinutes está configurado como 20
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    HTTPSessionMaxRequests is set to 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    IdleConnectionTimeOutSeconds está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    JobQueuing está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    Language está configurado como eng
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    LDAPPort está configurado como 389
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    LDAPSearchField está configurado como cn
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    LDAPSkipSSLCertVerification está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    LDAPSkipSSLCRLVerification está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    LDAPUseServerAccount está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    LDAPVerifyServerSSLCert está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    LogReleaseLineCount está configurado como 5000
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MagnitudeDifferenceToBeZero está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MaskUserNameInServerTools está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MaximumCubeLoadThreads está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MaximumLoginAttempts está configurado como 3
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MaximumMemoryForSubsetUndo está configurado como 10240
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MaximumSynchAttempts está configurado como 1
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MaximumTILockObjects está configurado como 2000
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MaximumUserSandboxSize está configurado como 500
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MaximumViewSize está configurado como 500
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MessageCompression está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MTQ.ImmediateCheckForSplit está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MTQ.OperationProgressCheckSkipLoopSize está configurado como 10000
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    MTQ.SingleCellConsolidation está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    NetRecvBlockingWaitLimitSeconds está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    NetRecvMaxClientIOWaitWithinAPIsSeconds está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    OracleErrorForceRowStatus está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    PasswordMinimumLength está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    PerfMonIsActive está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    PerformanceMonitorOn está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    PersistentFeeders está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ProgressMessage está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ProportionSpreadToZeroCells está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ReceiveProgressResponseTimeoutSecs está configurado como 0
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    RulesOverwriteCellsOnLoad está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    SpreadingPrecision está configurado como 1.000000e-08
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    SubsetElementBreatherCount está configurado como -1
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    SyncUnitSize está configurado como 1000
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    TM1ConnectorforSAP está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    UnicodeUpperLowerCase está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    UseLocalCopiesForPublicDynamicSubsets está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    UseNewConnectorforSAP está desativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    UserDefinedCalculations está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    O tipo de busca de SQL não está especificado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    UseStargateForRules está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ViewConsolidationOptimization está ativado
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ViewConsolidationOptimizationMethod está configurado como TREE
+4636   []   INFO   2023-02-13 16:51:18.852   TM1.Server    ZeroWeightOptimization está ativado
+5740   []   INFO   2023-02-13 16:51:18.853   TM1.Server   --------------------Session Start--------------------
+5740   []   INFO   2023-02-13 16:51:18.853   TM1.Server   TM1 Build Number:  11.8.01300.1
+4636   []   INFO   2023-02-13 16:51:18.854   TM1.Server    Notificando o Servidor administrativo
+14272   []   INFO   2023-02-13 16:51:18.870   TM1.Server   Starting Admin Server poller thread. Thread Id: 14272. For Admin server: NET1797, LocalServer: False
+5740   []   INFO   2023-02-13 16:51:18.952   TM1.Cube    Carregamento do cabeçalho pronto para o cubo REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:18.957   TM1.Cube    Carregamento do cabeçalho pronto para o cubo REC_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:18.958   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }Capabilities
+5740   []   INFO   2023-02-13 16:51:18.959   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ClientCAMAssociatedGroups
+5740   []   INFO   2023-02-13 16:51:18.959   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ClientGroups
+5740   []   INFO   2023-02-13 16:51:18.960   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ClientProperties
+5740   []   INFO   2023-02-13 16:51:18.961   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ClientSettings
+5740   []   INFO   2023-02-13 16:51:18.965   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }CubeProperties
+5740   []   INFO   2023-02-13 16:51:18.966   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }CubeSecurityProperties
+5740   []   INFO   2023-02-13 16:51:18.970   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }DimensionProperties
+5740   []   INFO   2023-02-13 16:51:18.971   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_01_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:18.972   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_01_REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:18.973   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_02_CeCO
+5740   []   INFO   2023-02-13 16:51:18.974   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_02_Filial
+5740   []   INFO   2023-02-13 16:51:18.974   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_02_Produto
+5740   []   INFO   2023-02-13 16:51:18.975   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_04_Ano
+5740   []   INFO   2023-02-13 16:51:18.976   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_04_Mes
+5740   []   INFO   2023-02-13 16:51:18.977   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_}Clients
+5740   []   INFO   2023-02-13 16:51:18.981   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_}Cultures
+5740   []   INFO   2023-02-13 16:51:18.982   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }ElementAttributes_}Groups
+5740   []   INFO   2023-02-13 16:51:18.983   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }HierarchyProperties
+5740   []   INFO   2023-02-13 16:51:18.983   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }StatsByChore
+5740   []   INFO   2023-02-13 16:51:18.984   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }StatsByClient
+5740   []   INFO   2023-02-13 16:51:18.985   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }StatsByCube
+5740   []   INFO   2023-02-13 16:51:18.986   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }StatsByCubeByClient
+5740   []   INFO   2023-02-13 16:51:18.990   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }StatsByProcess
+5740   []   INFO   2023-02-13 16:51:18.996   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }StatsByRule
+5740   []   INFO   2023-02-13 16:51:18.997   TM1.Cube    Carregamento do cabeçalho pronto para o cubo }StatsForServer
+5740   []   INFO   2023-02-13 16:51:18.997   TM1.Dimension    Carregamento da dimensão }DimensionProperties
+5740   []   INFO   2023-02-13 16:51:18.997   TM1.Cube    Carregamento de corpo para o cubo }DimensionProperties
+5740   []   INFO   2023-02-13 16:51:18.997   TM1.Cube    Carregamento de corpo pronto para o cubo }DimensionProperties
+5740   []   INFO   2023-02-13 16:51:18.997   TM1.Dimension    Carregamento da dimensão }CubeProperties
+5740   []   INFO   2023-02-13 16:51:18.998   TM1.Dimension    Carregamento da dimensão }CubeSecurityProperties
+5740   []   INFO   2023-02-13 16:51:18.998   TM1.Dimension    Carregamento da dimensão }Hierarchies
+5740   []   INFO   2023-02-13 16:51:18.998   TM1.Dimension    Carregamento da dimensão }HierarchyProperties
+5740   []   INFO   2023-02-13 16:51:18.998   TM1.Cube    Carregamento de corpo para o cubo }CubeProperties
+5740   []   INFO   2023-02-13 16:51:18.998   TM1.Cube    Carregamento de corpo pronto para o cubo }CubeProperties
+5740   []   INFO   2023-02-13 16:51:18.998   TM1.Cube    Carregamento de corpo para o cubo }CubeSecurityProperties
+5740   []   INFO   2023-02-13 16:51:18.998   TM1.Cube    Carregamento de corpo pronto para o cubo }CubeSecurityProperties
+5740   []   INFO   2023-02-13 16:51:18.998   TM1.Cube    Carregamento de corpo para o cubo }HierarchyProperties
+5740   []   INFO   2023-02-13 16:51:18.998   TM1.Cube    Carregamento de corpo pronto para o cubo }HierarchyProperties
+5740   []   INFO   2023-02-13 16:51:18.999   TM1.Dimension    Carregamento da dimensão 01_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:18.999   TM1.Dimension    Carregamento da dimensão 01_REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:18.999   TM1.Dimension    Carregamento da dimensão 02_CeCO
+5740   []   INFO   2023-02-13 16:51:18.999   TM1.Dimension    Carregamento da dimensão 02_Filial
+5740   []   INFO   2023-02-13 16:51:19.000   TM1.Dimension    Carregamento da dimensão 02_Produto
+5740   []   INFO   2023-02-13 16:51:19.000   TM1.Dimension    Carregamento da dimensão 04_Ano
+5740   []   INFO   2023-02-13 16:51:19.000   TM1.Dimension    Carregamento da dimensão 04_Mes
+5740   []   INFO   2023-02-13 16:51:19.000   TM1.Dimension    Carregamento da dimensão 05_Versao
+5740   []   INFO   2023-02-13 16:51:19.000   TM1.Dimension    Carregamento da dimensão }ApplicationEntries
+5740   []   INFO   2023-02-13 16:51:19.001   TM1.Dimension    Carregamento da dimensão }CAMAssociatedGroups
+5740   []   INFO   2023-02-13 16:51:19.001   TM1.Dimension    Carregamento da dimensão }ClientProperties
+5740   []   INFO   2023-02-13 16:51:19.001   TM1.Dimension    Carregamento da dimensão }Clients
+5740   []   INFO   2023-02-13 16:51:19.001   TM1.Dimension    Carregamento da dimensão }ClientSettings
+5740   []   INFO   2023-02-13 16:51:19.001   TM1.Dimension    Carregamento da dimensão }ConnectionProperties
+5740   []   INFO   2023-02-13 16:51:19.001   TM1.Dimension    Carregamento da dimensão }Connections
+5740   []   INFO   2023-02-13 16:51:19.001   TM1.Dimension    Carregamento da dimensão }Cube Functions
+5740   []   INFO   2023-02-13 16:51:19.002   TM1.Dimension    Carregamento da dimensão }Cultures
+5740   []   INFO   2023-02-13 16:51:19.003   TM1.Dimension    Carregamento da dimensão }DimensionFormatAttributes
+5740   []   INFO   2023-02-13 16:51:19.003   TM1.Dimension    Carregamento da dimensão }DimensionFormatItems
+5740   []   INFO   2023-02-13 16:51:19.004   TM1.Dimension    Carregamento da dimensão }ElementAttributes_01_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:19.004   TM1.Dimension    Carregamento da dimensão }ElementAttributes_01_REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:19.004   TM1.Dimension    Carregamento da dimensão }ElementAttributes_02_CeCO
+5740   []   INFO   2023-02-13 16:51:19.004   TM1.Dimension    Carregamento da dimensão }ElementAttributes_02_Filial
+5740   []   INFO   2023-02-13 16:51:19.004   TM1.Dimension    Carregamento da dimensão }ElementAttributes_02_Produto
+5740   []   INFO   2023-02-13 16:51:19.004   TM1.Dimension    Carregamento da dimensão }ElementAttributes_04_Ano
+5740   []   INFO   2023-02-13 16:51:19.004   TM1.Dimension    Carregamento da dimensão }ElementAttributes_04_Mes
+5740   []   INFO   2023-02-13 16:51:19.005   TM1.Dimension    Carregamento da dimensão }ElementAttributes_}Clients
+5740   []   INFO   2023-02-13 16:51:19.005   TM1.Dimension    Carregamento da dimensão }ElementAttributes_}Cultures
+5740   []   INFO   2023-02-13 16:51:19.005   TM1.Dimension    Carregamento da dimensão }ElementAttributes_}Groups
+5740   []   INFO   2023-02-13 16:51:19.005   TM1.Dimension    Carregamento da dimensão }ElementProperties
+5740   []   INFO   2023-02-13 16:51:19.005   TM1.Dimension    Carregamento da dimensão }Features
+5740   []   INFO   2023-02-13 16:51:19.006   TM1.Dimension    Carregamento da dimensão }Groups
+5740   []   INFO   2023-02-13 16:51:19.006   TM1.Dimension    Carregamento da dimensão }Hold
+5740   []   INFO   2023-02-13 16:51:19.006   TM1.Dimension    Carregamento da dimensão }LineNumber
+5740   []   INFO   2023-02-13 16:51:19.025   TM1.Dimension    Carregamento da dimensão }PerfClients
+5740   []   INFO   2023-02-13 16:51:19.025   TM1.Dimension    Carregamento da dimensão }PerfCubes
+5740   []   INFO   2023-02-13 16:51:19.026   TM1.Dimension    Carregamento da dimensão }Permissions
+5740   []   INFO   2023-02-13 16:51:19.026   TM1.Dimension    Carregamento da dimensão }PickList
+5740   []   INFO   2023-02-13 16:51:19.026   TM1.Dimension    Carregamento da dimensão }RuleStats
+5740   []   INFO   2023-02-13 16:51:19.026   TM1.Dimension    Carregamento da dimensão }SecurityOverlay
+5740   []   INFO   2023-02-13 16:51:19.026   TM1.Dimension    Carregamento da dimensão }StatsByProcess
+5740   []   INFO   2023-02-13 16:51:19.026   TM1.Dimension    Carregamento da dimensão }StatsStatsByClient
+5740   []   INFO   2023-02-13 16:51:19.027   TM1.Dimension    Carregamento da dimensão }StatsStatsByCube
+5740   []   INFO   2023-02-13 16:51:19.027   TM1.Dimension    Carregamento da dimensão }StatsStatsByCubeByClient
+5740   []   INFO   2023-02-13 16:51:19.027   TM1.Dimension    Carregamento da dimensão }StatsStatsForServer
+5740   []   INFO   2023-02-13 16:51:19.027   TM1.Dimension    Carregamento da dimensão }TimeIntervals
+5740   []   INFO   2023-02-13 16:51:19.027   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_01_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:19.027   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_01_REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:19.027   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_02_CeCO
+5740   []   INFO   2023-02-13 16:51:19.027   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_02_Filial
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_02_Produto
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_04_Ano
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_04_Mes
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_}Clients
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_}Cultures
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Server    Carregamento de regras para o cubo }ElementAttributes_}Groups
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_01_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_01_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_01_REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_01_REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_02_CeCO
+5740   []   INFO   2023-02-13 16:51:19.028   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_02_CeCO
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_02_Filial
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_02_Filial
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_02_Produto
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_02_Produto
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_04_Ano
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_04_Ano
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_04_Mes
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_04_Mes
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_}Clients
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_}Clients
+5740   []   INFO   2023-02-13 16:51:19.029   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_}Cultures
+5740   []   INFO   2023-02-13 16:51:19.030   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_}Cultures
+5740   []   INFO   2023-02-13 16:51:19.030   TM1.Cube    Carregamento de corpo para o cubo }ElementAttributes_}Groups
+5740   []   INFO   2023-02-13 16:51:19.030   TM1.Cube    Carregamento de corpo pronto para o cubo }ElementAttributes_}Groups
+5740   []   INFO   2023-02-13 16:51:19.031   TM1.Server    Carregamento de regras para o cubo REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:19.032   TM1.Server    Carregamento de regras para o cubo REC_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:19.040   TM1.Cube.Dependency   Adding cube dependency: Cube 'REC_Receita_Margem' depends on cube '}ElementAttributes_04_Mes'.
+5740   []   INFO   2023-02-13 16:51:19.040   TM1.Cube.Dependency   Adding cube dependency: Cube 'REC_Receita_Margem' depends on cube '}ElementAttributes_04_Ano'.
+5740   []   INFO   2023-02-13 16:51:19.040   TM1.Cube.Dependency   Adding cube dependency: Cube 'REC_Receita_Margem' depends on cube 'REC_Preco_Custo_Carga'.
+5740   []   INFO   2023-02-13 16:51:19.041   TM1.Server    Carregamento de regras para o cubo }StatsByClient
+5740   []   INFO   2023-02-13 16:51:19.051   TM1.Server    Carregamentos do cubo são encadeados únicos
+5740   []   INFO   2023-02-13 16:51:19.052   TM1.Cube    Carregamento de corpo para o cubo REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:19.052   TM1.Cube    Carregamento de corpo pronto para o cubo REC_Preco_Custo_Carga
+5740   []   INFO   2023-02-13 16:51:19.052   TM1.Cube    Carregamento de corpo para o cubo REC_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:19.053   TM1.Cube    Carregamento de corpo pronto para o cubo REC_Receita_Margem
+5740   []   INFO   2023-02-13 16:51:19.053   TM1.Cube    Carregamento de corpo para o cubo }Capabilities
+5740   []   INFO   2023-02-13 16:51:19.053   TM1.Cube    Carregamento de corpo pronto para o cubo }Capabilities
+5740   []   INFO   2023-02-13 16:51:19.053   TM1.Cube    Carregamento de corpo para o cubo }ClientCAMAssociatedGroups
+5740   []   INFO   2023-02-13 16:51:19.053   TM1.Cube    Carregamento de corpo pronto para o cubo }ClientCAMAssociatedGroups
+5740   []   INFO   2023-02-13 16:51:19.053   TM1.Cube    Carregamento de corpo para o cubo }ClientGroups
+5740   []   INFO   2023-02-13 16:51:19.053   TM1.Cube    Carregamento de corpo pronto para o cubo }ClientGroups
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo para o cubo }ClientProperties
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo pronto para o cubo }ClientProperties
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo para o cubo }ClientSettings
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo pronto para o cubo }ClientSettings
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo para o cubo }StatsByChore
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo pronto para o cubo }StatsByChore
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo para o cubo }StatsByClient
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo pronto para o cubo }StatsByClient
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo para o cubo }StatsByCube
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo pronto para o cubo }StatsByCube
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo para o cubo }StatsByCubeByClient
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo pronto para o cubo }StatsByCubeByClient
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo para o cubo }StatsByProcess
+5740   []   INFO   2023-02-13 16:51:19.054   TM1.Cube    Carregamento de corpo pronto para o cubo }StatsByProcess
+5740   []   INFO   2023-02-13 16:51:19.055   TM1.Cube    Carregamento de corpo para o cubo }StatsByRule
+5740   []   INFO   2023-02-13 16:51:19.056   TM1.Cube    Carregamento de corpo pronto para o cubo }StatsByRule
+5740   []   INFO   2023-02-13 16:51:19.056   TM1.Cube    Carregamento de corpo para o cubo }StatsForServer
+5740   []   INFO   2023-02-13 16:51:19.056   TM1.Cube    Carregamento de corpo pronto para o cubo }StatsForServer
+5740   []   INFO   2023-02-13 16:51:19.058   TM1.Server   TM1CubeImpl::ProcessFeeders: Computing feeders for base cube 'REC_Preco_Custo_Carga'.
+5740   []   INFO   2023-02-13 16:51:19.058   TM1.Server   TM1CubeImpl::ProcessFeeders(in 0ms): Done computing feeders for base cube 'REC_Preco_Custo_Carga'.
+5740   []   INFO   2023-02-13 16:51:19.058   TM1.Server   TM1CubeImpl::ProcessFeeders: Computing feeders for base cube 'REC_Receita_Margem'.
+5740   []   INFO   2023-02-13 16:51:19.071   TM1.Server   TM1CubeImpl::ProcessFeeders(in 14ms): Done computing feeders for base cube 'REC_Receita_Margem'.
+5740   []   INFO   2023-02-13 16:51:19.071   TM1.Server   TM1CubeImpl::ProcessFeeders: Computing feeders for base cube '}StatsByClient'.
+5740   []   INFO   2023-02-13 16:51:19.071   TM1.Server   TM1CubeImpl::ProcessFeeders(in 0ms): Done computing feeders for base cube '}StatsByClient'.
+26604   []   INFO   2023-02-13 16:51:19.129   TM1.Server   Starting PseudoElement thread.  Thread Id: 26604
+9604   []   INFO   2023-02-13 16:51:19.130   TM1.Server   Starting RebuildFacetModel thread.  Thread Id: 9604
+5080   []   INFO   2023-02-13 16:51:19.130   TM1.Server   Starting unregistered cleanup thread.  Thread Id: 5080
+26128   []   INFO   2023-02-13 16:51:19.131   TM1.Server   Error retrieving product information from swidtag file: The swidtag folder "C:\Program Files\ibm\cognos\tm1_64\bin64\..\swidtag\" does not contain a software id tag file for product "IBM TM1".
+18508   []   INFO   2023-02-13 16:51:19.131   TM1.Server   Starting spy thread.  Thread Id: 18508
+9712   []   INFO   2023-02-13 16:51:19.132   TM1.Server   Starting ODBCProxy cleanup thread.  Thread Id: 9712
+5740   []   INFO   2023-02-13 16:51:19.132   TM1.Chore   Registering chore: "SYS_Save_Data_All"  Start time: 2022/09/26 18:50:31  Frequency: 00:02:00:00
+5740   []   INFO   2023-02-13 16:51:19.132   TM1.Server   TM1 Server load time (secs) = 1
+4636   []   INFO   2023-02-13 16:51:19.879   TM1.Server   TM1 Server is ready, elapsed time 1.00 seconds
+7176   [2]   INFO   2023-02-13 17:12:10.306   TM1.Process   Process "_Teste_GIT" executed by user "Admin"
+7176   [2]   INFO   2023-02-13 17:12:10.574   TM1.Process   Processo "_Teste_GIT":  concluiu a execução normalmente, tempo decorrido 0.27 segundos
+7176   [2]   INFO   2023-02-13 17:14:53.859   TM1.Process   Process "_Teste_GIT" executed by user "Admin"
+7176   [2]   INFO   2023-02-13 17:14:54.159   TM1.Process   Processo "_Teste_GIT":  concluiu a execução normalmente, tempo decorrido 0.30 segundos
+7176   [2]   INFO   2023-02-13 17:15:27.071   TM1.Process   Process "_Teste_GIT" executed by user "Admin"
+7176   [2]   INFO   2023-02-13 17:15:27.342   TM1.Process   Processo "_Teste_GIT":  concluiu a execução normalmente, tempo decorrido 0.27 segundos
