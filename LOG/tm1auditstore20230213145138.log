@@ -1,0 +1,10 @@
+﻿<Commit ts="20230213163810" client="">
+"145","admin","192.168.0.105","Uma tentativa de login malsucedida foi feita pelo usuário 'admin' a partir do endereço '192.168.0.105'."
+</Commit>
+<Commit ts="20230213163819" client="Admin">
+"144","Admin","192.168.0.105","O usuário 'Admin' efetuou login com êxito a partir do endereço '192.168.0.105'."
+</Commit>
+<Commit ts="20230213163916" client="Admin">
+"129","REC_Preco_Custo_Carga","A regra para o cubo 'REC_Preco_Custo_Carga' foi modificada."
+</Commit>
+
