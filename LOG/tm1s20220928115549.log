@@ -1,0 +1,12 @@
+﻿#LOG_FORMAT=1
+#LOGID=e
+#LOGIV=
+#"","20220927185032","CubeSerialized: REC_Preco_Custo_Carga: by R*SYS_Save_Data_All"
+#"","20220927185032","CubeSerialized: REC_Preco_Custo_Carga: by R*SYS_Save_Data_All"
+#"","20220927185032","CubeSerialized: REC_Receita_Margem: by R*SYS_Save_Data_All"
+#"","20220927185032","CubeSerialized: }DimensionProperties: by R*SYS_Save_Data_All"
+"","20220927185833","20220927185833","Admin","S","20220927171843","20220927185833","}DimensionProperties","}Views_REC_Receita_Margem","LAST_TIME_UPDATED",""
+"","20220927190648","20220927190648","Admin","S","20220927173630","20220927190648","}DimensionProperties","}Processes","LAST_TIME_UPDATED",""
+"","20220927191031","20220927191031","Admin","S","20220927185833","20220927191031","}DimensionProperties","}Views_REC_Receita_Margem","LAST_TIME_UPDATED",""
+"","20220927191051","20220927191051","Admin","S","20220927191031","20220927191051","}DimensionProperties","}Views_REC_Receita_Margem","LAST_TIME_UPDATED",""
+

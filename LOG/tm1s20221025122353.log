@@ -1,0 +1,14 @@
+﻿#LOG_FORMAT=1
+#LOGID=13
+#LOGIV=
+#"","20221010104744","CubeSerialized: }CubeProperties: by R*SYS_Save_Data_All"
+#"","20221010104744","CubeSerialized: }DimensionProperties: by R*SYS_Save_Data_All"
+#"","20221010104744","CubeSerialized: }ElementAttributes_02_CeCO: by R*SYS_Save_Data_All"
+#"","20221010104744","CubeSerialized: }ElementAttributes_}Cultures: by R*SYS_Save_Data_All"
+#"","20221025122353","CubeSerialized: }StatsByChore: by *"
+#"","20221025122353","CubeSerialized: }StatsByClient: by *"
+#"","20221025122353","CubeSerialized: }StatsByCube: by *"
+#"","20221025122353","CubeSerialized: }StatsByCubeByClient: by *"
+#"","20221025122353","CubeSerialized: }StatsByProcess: by *"
+#"","20221025122353","CubeSerialized: }StatsForServer: by *"
+

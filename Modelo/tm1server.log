@@ -1,0 +1,237 @@
+﻿2022-09-19 21:00:41 GMT  Shared memory reader PID 21416 started, for shmem "tm1s.exe-17456_1"
+13692   []   INFO   2022-09-19 21:00:41.688   TM1.Server   Data Directory: c:\apps\planejamento\modelo
+13692   []   INFO   2022-09-19 21:00:41.694   TM1.Server   Admin Host: NET1771
+13692   []   INFO   2022-09-19 21:00:41.694   TM1.Server   Logging Directory: c:\apps\planejamento\modelo
+13692   []   INFO   2022-09-19 21:00:41.694   TM1.Server   Configuration Directory: c:\apps\planejamento\modelo
+13692   []   INFO   2022-09-19 21:00:41.694   TM1.Server   Raw Store Directory: c:\apps\planejamento\modelo
+13692   []   INFO   2022-09-19 21:00:41.694   TM1.Server   Port: 47961
+13692   []   INFO   2022-09-19 21:00:41.694   TM1.Server   HTTPPort: 5001
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   Client Message Port: Dynamic
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   Client Message Port does not accept Tm1Top connections.
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   IP Version: ipv4
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   SSL Mode: 1
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   Key File: C:\Program Files\ibm\cognos\tm1_64\bin64\ssl\ibmtm1.kdb
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   Key Stash File: C:\Program Files\ibm\cognos\tm1_64\bin64\ssl\ibmtm1.sth
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   FIPS Operation Mode: 2
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   NIST SP800 131A Mode: 1
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   Certificate Authority: 
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   Client Export Server Certificate: 0
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   Security Mode: 1
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   Use Generic Login Connect Error: 
+13692   []   INFO   2022-09-19 21:00:41.695   TM1.Server   Start time: Mon Sep 19 2022     06:00:41 PM
+13692   []   INFO   2022-09-19 21:00:41.714   TM1.Server   Windows reports the locale as Portugu�s (Brasil)
+13692   []   INFO   2022-09-19 21:00:41.716   TM1.Server   Windows reports the locale as Portugu�s (Brasil)
+13692   []   INFO   2022-09-19 21:00:41.931   TM1.Server    O servidor usará a Interação Paralela.
+13692   []   INFO   2022-09-19 21:00:41.931   TM1.Server    A Porta de Mensagem do Cliente não aceita conexões Tm1Top.
+13692   []   INFO   2022-09-19 21:00:41.931   TM1.Server    SmartCache está desativado
+18576   []   INFO   2022-09-19 21:00:41.931   TM1.Comm   Unable to initialize server socket
+9496   []   INFO   2022-09-19 21:00:41.933   TM1.Server   Starting HTTP Session Timeout thread.  Thread Id: 9496
+11868   []   INFO   2022-09-19 21:00:41.935   TM1.Server   Dynamic Client Message Port: 63794
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    MTQ é ativado com 8 encadeamentos
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    AllowReadOnlyChoreReschedule está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    AllowSeparateNandCRules está ativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    AllRuleCalcStargateOptimization está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    ApplyMaximumViewSizeToEntireTransaction está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    O Log de Auditoria está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    AutomaticallyAddCubeDependencies está ativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    CacheFriendlyMalloc está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    CalculationThresholdForStorage está configurado como 50
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    CheckFeedersMaximumCells está configurado como 3000000
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    ClientPropertiesSyncInterval está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    ClientVersionMaximum está configurado como 110801300
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    ClientVersionMinimum está configurado como 80000001
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    ClientVersionPrecision está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    DefaultMeasuresDimension está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    DisableMemoryCache está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    DisableSandboxing está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    DISPLAY_INFO_DBTYPE_R8 está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    DistributedPlanningOutputDir está configurado como tunit
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    Excel Web Publish está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    ForceReevaluationOfFeedersForFedCellsOnDataChange está ativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    HTTPSessionTimeoutMinutes está configurado como 20
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    HTTPSessionMaxRequests is set to 0
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    IdleConnectionTimeOutSeconds está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    JobQueuing está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    Language está configurado como eng
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    LDAPPort está configurado como 389
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    LDAPSearchField está configurado como cn
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    LDAPSkipSSLCertVerification está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    LDAPSkipSSLCRLVerification está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    LDAPUseServerAccount está ativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    LDAPVerifyServerSSLCert está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    LogReleaseLineCount está configurado como 5000
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    MagnitudeDifferenceToBeZero está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    MaskUserNameInServerTools está desativado
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    MaximumCubeLoadThreads está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    MaximumLoginAttempts está configurado como 3
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    MaximumMemoryForSubsetUndo está configurado como 10240
+13692   []   INFO   2022-09-19 21:00:41.936   TM1.Server    MaximumSynchAttempts está configurado como 1
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    MaximumTILockObjects está configurado como 2000
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    MaximumUserSandboxSize está configurado como 500
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    MaximumViewSize está configurado como 500
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    MessageCompression está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    MTQ.ImmediateCheckForSplit está desativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    MTQ.OperationProgressCheckSkipLoopSize está configurado como 10000
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    MTQ.SingleCellConsolidation está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    NetRecvBlockingWaitLimitSeconds está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    NetRecvMaxClientIOWaitWithinAPIsSeconds está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    OracleErrorForceRowStatus está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    PasswordMinimumLength está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    PerfMonIsActive está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    PerformanceMonitorOn está desativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    PersistentFeeders está desativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    ProgressMessage está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    ProportionSpreadToZeroCells está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    ReceiveProgressResponseTimeoutSecs está configurado como 0
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    RulesOverwriteCellsOnLoad está desativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    SpreadingPrecision está configurado como 1.000000e-08
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    SubsetElementBreatherCount está configurado como -1
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    SyncUnitSize está configurado como 1000
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    TM1ConnectorforSAP está desativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    UnicodeUpperLowerCase está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    UseLocalCopiesForPublicDynamicSubsets está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    UseNewConnectorforSAP está desativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    UserDefinedCalculations está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    O tipo de busca de SQL não está especificado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    UseStargateForRules está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    ViewConsolidationOptimization está ativado
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    ViewConsolidationOptimizationMethod está configurado como TREE
+13692   []   INFO   2022-09-19 21:00:41.937   TM1.Server    ZeroWeightOptimization está ativado
+3900   []   INFO   2022-09-19 21:00:41.938   TM1.Server   --------------------Session Start--------------------
+3900   []   INFO   2022-09-19 21:00:41.938   TM1.Server   TM1 Build Number:  11.8.01300.1
+13692   []   ERROR   2022-09-19 21:00:41.938   TM1.Server   E15) O servidor não pode atender na porta 5001. Verifique o arquivo de log para obter mais detalhes.
+13692   []   INFO   2022-09-19 21:00:41.939   TM1.Server   The server is coming down...
+13692   []   INFO   2022-09-19 21:00:41.948   TM1.Server   Server shutdown, elapsed time 0.00 seconds
+2022-09-19 21:06:47 GMT  Shared memory reader PID 15624 started, for shmem "tm1s.exe-11880_1"
+4008   []   INFO   2022-09-19 21:06:47.569   TM1.Server   Data Directory: c:\apps\planejamento\modelo
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Admin Host: NET1771
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Logging Directory: c:\apps\planejamento\modelo
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Configuration Directory: c:\apps\planejamento\modelo
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Raw Store Directory: c:\apps\planejamento\modelo
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Port: 47961
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   HTTPPort: 5001
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Client Message Port: Dynamic
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Client Message Port does not accept Tm1Top connections.
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   IP Version: ipv4
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   SSL Mode: 1
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Key File: C:\Program Files\ibm\cognos\tm1_64\bin64\ssl\ibmtm1.kdb
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Key Stash File: C:\Program Files\ibm\cognos\tm1_64\bin64\ssl\ibmtm1.sth
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   FIPS Operation Mode: 2
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   NIST SP800 131A Mode: 1
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Certificate Authority: 
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Client Export Server Certificate: 0
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Security Mode: 1
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Use Generic Login Connect Error: 
+4008   []   INFO   2022-09-19 21:06:47.578   TM1.Server   Start time: Mon Sep 19 2022     06:06:47 PM
+4008   []   INFO   2022-09-19 21:06:47.599   TM1.Server   Windows reports the locale as Portugu�s (Brasil)
+4008   []   INFO   2022-09-19 21:06:47.600   TM1.Server   Windows reports the locale as Portugu�s (Brasil)
+4008   []   INFO   2022-09-19 21:06:47.784   TM1.Server    O servidor usará a Interação Paralela.
+4008   []   INFO   2022-09-19 21:06:47.784   TM1.Server    A Porta de Mensagem do Cliente não aceita conexões Tm1Top.
+4008   []   INFO   2022-09-19 21:06:47.784   TM1.Server    SmartCache está desativado
+11416   []   INFO   2022-09-19 21:06:47.786   TM1.Server   Starting HTTP Session Timeout thread.  Thread Id: 11416
+18072   []   INFO   2022-09-19 21:06:47.787   TM1.Server   Dynamic Client Message Port: 63972
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MTQ é ativado com 8 encadeamentos
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    AllowReadOnlyChoreReschedule está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    AllowSeparateNandCRules está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    AllRuleCalcStargateOptimization está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ApplyMaximumViewSizeToEntireTransaction está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    O Log de Auditoria está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    AutomaticallyAddCubeDependencies está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    CacheFriendlyMalloc está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    CalculationThresholdForStorage está configurado como 50
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    CheckFeedersMaximumCells está configurado como 3000000
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ClientPropertiesSyncInterval está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ClientVersionMaximum está configurado como 110801300
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ClientVersionMinimum está configurado como 80000001
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ClientVersionPrecision está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    DefaultMeasuresDimension está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    DisableMemoryCache está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    DisableSandboxing está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    DISPLAY_INFO_DBTYPE_R8 está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    DistributedPlanningOutputDir está configurado como tunit
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    Excel Web Publish está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ForceReevaluationOfFeedersForFedCellsOnDataChange está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    HTTPSessionTimeoutMinutes está configurado como 20
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    HTTPSessionMaxRequests is set to 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    IdleConnectionTimeOutSeconds está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    JobQueuing está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    Language está configurado como eng
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    LDAPPort está configurado como 389
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    LDAPSearchField está configurado como cn
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    LDAPSkipSSLCertVerification está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    LDAPSkipSSLCRLVerification está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    LDAPUseServerAccount está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    LDAPVerifyServerSSLCert está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    LogReleaseLineCount está configurado como 5000
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MagnitudeDifferenceToBeZero está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MaskUserNameInServerTools está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MaximumCubeLoadThreads está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MaximumLoginAttempts está configurado como 3
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MaximumMemoryForSubsetUndo está configurado como 10240
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MaximumSynchAttempts está configurado como 1
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MaximumTILockObjects está configurado como 2000
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MaximumUserSandboxSize está configurado como 500
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MaximumViewSize está configurado como 500
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MessageCompression está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MTQ.ImmediateCheckForSplit está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MTQ.OperationProgressCheckSkipLoopSize está configurado como 10000
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    MTQ.SingleCellConsolidation está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    NetRecvBlockingWaitLimitSeconds está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    NetRecvMaxClientIOWaitWithinAPIsSeconds está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    OracleErrorForceRowStatus está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    PasswordMinimumLength está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    PerfMonIsActive está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    PerformanceMonitorOn está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    PersistentFeeders está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ProgressMessage está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ProportionSpreadToZeroCells está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ReceiveProgressResponseTimeoutSecs está configurado como 0
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    RulesOverwriteCellsOnLoad está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    SpreadingPrecision está configurado como 1.000000e-08
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    SubsetElementBreatherCount está configurado como -1
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    SyncUnitSize está configurado como 1000
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    TM1ConnectorforSAP está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    UnicodeUpperLowerCase está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    UseLocalCopiesForPublicDynamicSubsets está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    UseNewConnectorforSAP está desativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    UserDefinedCalculations está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    O tipo de busca de SQL não está especificado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    UseStargateForRules está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ViewConsolidationOptimization está ativado
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ViewConsolidationOptimizationMethod está configurado como TREE
+4008   []   INFO   2022-09-19 21:06:47.788   TM1.Server    ZeroWeightOptimization está ativado
+19420   []   INFO   2022-09-19 21:06:47.789   TM1.Transaction   TM1TransactionLog::BasicInitialize: The transaction log was found and write-locked. Recovery possible after server load.
+19420   []   INFO   2022-09-19 21:06:47.789   TM1.Server   --------------------Session Start--------------------
+19420   []   INFO   2022-09-19 21:06:47.789   TM1.Server   TM1 Build Number:  11.8.01300.1
+4008   []   INFO   2022-09-19 21:06:47.789   TM1.Server    Notificando o Servidor administrativo
+20976   []   INFO   2022-09-19 21:06:47.807   TM1.Server   Starting Admin Server poller thread. Thread Id: 20976. For Admin server: NET1771, LocalServer: False
+19420   []   INFO   2022-09-19 21:06:48.729   TM1.Server    Carregamentos do cubo são encadeados únicos
+19420   []   INFO   2022-09-19 21:06:48.757   TM1.Security   Security Upgrade performed on all processes
+19420   []   INFO   2022-09-19 21:06:48.826   TM1.Server   TM1CubeImpl::ProcessFeeders: Computing feeders for base cube '}StatsByClient'.
+19420   []   INFO   2022-09-19 21:06:48.826   TM1.Server   TM1CubeImpl::ProcessFeeders(in 0ms): Done computing feeders for base cube '}StatsByClient'.
+18448   []   INFO   2022-09-19 21:06:48.885   TM1.Server   Starting PseudoElement thread.  Thread Id: 18448
+12540   []   INFO   2022-09-19 21:06:48.886   TM1.Server   Starting RebuildFacetModel thread.  Thread Id: 12540
+16332   []   INFO   2022-09-19 21:06:48.886   TM1.Server   Starting unregistered cleanup thread.  Thread Id: 16332
+9224   []   INFO   2022-09-19 21:06:48.887   TM1.Server   Starting spy thread.  Thread Id: 9224
+15024   []   INFO   2022-09-19 21:06:48.888   TM1.Server   Starting ODBCProxy cleanup thread.  Thread Id: 15024
+19420   []   INFO   2022-09-19 21:06:48.889   TM1.Server   TM1 Server load time (secs) = 1
+4008   []   INFO   2022-09-19 21:06:50.841   TM1.Server   TM1 Server is ready, elapsed time 3.00 seconds
+15460   []   INFO   2022-09-19 21:07:02.449   TM1.Server   Closing...
+15460   []   INFO   2022-09-19 21:07:02.449   TM1.Server   Saving...
+15460   []   INFO   2022-09-19 21:07:02.449   TM1.Server   The server is coming down...
+16332   []   INFO   2022-09-19 21:07:02.450   TM1.Server   Terminating unregistered cleanup thread.
+15460   []   INFO   2022-09-19 21:07:02.451   TM1.Server   TM1ServerImpl::Destroy: Deactive all chores
+20976   []   INFO   2022-09-19 21:07:02.469   TM1.Server   Terminating Admin Server poller thread.
+15460   []   INFO   2022-09-19 21:07:02.469   TM1.Server   TM1ServerImpl::Destroy: Save server data
+15460   []   INFO   2022-09-19 21:07:02.482   TM1.Server   TM1ServerImpl::Destroy: destroy chores
+15460   []   INFO   2022-09-19 21:07:02.482   TM1.Server   TM1ServerImpl::Destroy: destroy processes
+15460   []   INFO   2022-09-19 21:07:02.482   TM1.Server   TM1ServerImpl::Destroy: destroy blobs
+15460   []   INFO   2022-09-19 21:07:02.482   TM1.Server   TM1ServerImpl::Destroy: destroy sets
+15460   []   INFO   2022-09-19 21:07:02.482   TM1.Server   TM1ServerImpl::Destroy: destroy groups
+15460   []   INFO   2022-09-19 21:07:02.482   TM1.Server   TM1ServerImpl::Destroy: destroy clients
+15460   []   INFO   2022-09-19 21:07:02.482   TM1.Server   TM1ServerImpl::Destroy: destroy cubes
+15460   []   INFO   2022-09-19 21:07:02.483   TM1.Server   TM1ServerImpl::Destroy: destroy dimensions
+15460   []   INFO   2022-09-19 21:07:02.484   TM1.Server   TM1ServerImpl::Destroy: destroy connections
+15460   []   INFO   2022-09-19 21:07:02.484   TM1.Server   TM1ServerImpl::Destroy: Destroy unregistered objects
+15460   []   INFO   2022-09-19 21:07:02.484   TM1.Server   TM1ServerImpl::Destroy: Commit changes
+15460   []   INFO   2022-09-19 21:07:02.525   TM1.Server   Server shutdown, elapsed time 0.00 seconds

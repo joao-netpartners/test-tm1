@@ -1,0 +1,15 @@
+﻿#LOG_FORMAT=1
+#LOGID=B
+#LOGIV=
+#"","20220926185006","CubeSerialized: REC_Preco_Custo_Carga: by Admin"
+#"","20220926185006","CubeSerialized: REC_Receita_Margem: by Admin"
+#"","20220926185006","CubeSerialized: }DimensionProperties: by Admin"
+#"","20220926185006","CubeSerialized: }ElementAttributes_01_REC_Preco_Custo_Carga: by Admin"
+#"","20220926185006","CubeSerialized: }ElementAttributes_01_Receita_Margem: by Admin"
+#"","20220926185006","CubeSerialized: }ElementAttributes_02_Filial: by Admin"
+#"","20220926185006","CubeSerialized: }ElementAttributes_02_Produto: by Admin"
+#"","20220926185006","CubeSerialized: }ElementAttributes_04_Mes: by Admin"
+#"","20220926185006","CubeSerialized: }ElementAttributes_}Cultures: by Admin"
+"","20220926185241","20220926185241","Admin","S","20220926181855","20220926185241","}DimensionProperties","}Processes","LAST_TIME_UPDATED",""
+"","20220926185241","20220926185241","Admin","S","","20220926185241","}DimensionProperties","}Chores","LAST_TIME_UPDATED",""
+

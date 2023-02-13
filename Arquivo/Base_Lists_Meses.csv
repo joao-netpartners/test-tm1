@@ -1,0 +1,13 @@
+﻿Periodo;Trim;Ano;PY
+Jan;1o Tri;Total Ano;
+Fev;1o Tri;Total Ano;Jan
+Mar;1o Tri;Total Ano;Fev
+Abr;2o Tri;Total Ano;Mar
+Mai;2o Tri;Total Ano;Abr
+Jun;2o Tri;Total Ano;Mai
+Jul;3o Tri;Total Ano;Jun
+Ago;3o Tri;Total Ano;Jul
+Set;3o Tri;Total Ano;Ago
+Out;4o Tri;Total Ano;Set
+Nov;4o Tri;Total Ano;Out
+Dez;4o Tri;Total Ano;Nov

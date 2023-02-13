@@ -1,0 +1,31 @@
+﻿FORMAT==100
+['Realizado','perc_margem'] = ['margem'] \ ['receita'];
+
+['Realizado']=STET;
+
+['var']=N: ['Realizado'] - ['Orçado'];
+
+['preco_unit','Jan','2021']=N:DB('REC_Preco_Custo_Carga',!05_Versao,!02_Produto,'preco_unit');C:0;
+
+['preco_unit','Jan']=N:DB('REC_Receita_Margem',!05_Versao,ATTRS('04_Ano',!04_Ano,'PY'),ATTRS ('04_Mes',!04_Mes,'PY'),!02_Filial,!02_Produto,!01_Receita_Margem) *
+		(1+ ['perc_reaj_preco']);C:0;
+
+['preco_unit']=N:DB('REC_Receita_Margem',!05_Versao,!04_Ano,ATTRS ('04_Mes',!04_Mes,'PY'),!02_Filial,!02_Produto,!01_Receita_Margem) *
+		(1+ ['perc_reaj_preco']);C:0;
+
+['receita']=N:['preco_unit']*['vol_venda'];
+
+['custo']=N:DB('REC_Preco_Custo_Carga',!05_Versao,!02_Produto,'custo_unit')*['vol_venda'];
+
+['margem']=N: ['receita'] - ['custo'];
+
+['perc_margem']=N: ['custo'] \ ['receita'];
+
+FEEDERS;
+
+['vol_venda','Orçado']=>['receita'],['preco_unit'],['custo'],['margem'],['perc_margem'],['var','receita'],['var','preco_unit'],['var','custo'],['var','margem'],['var','perc_margem'];
+
+
+
+
+

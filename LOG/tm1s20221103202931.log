@@ -1,0 +1,10 @@
+﻿#LOG_FORMAT=1
+#LOGID=14
+#LOGIV=
+#"","20221103202931","CubeSerialized: }StatsByChore: by *"
+#"","20221103202931","CubeSerialized: }StatsByClient: by *"
+#"","20221103202931","CubeSerialized: }StatsByCube: by *"
+#"","20221103202931","CubeSerialized: }StatsByCubeByClient: by *"
+#"","20221103202931","CubeSerialized: }StatsByProcess: by *"
+#"","20221103202931","CubeSerialized: }StatsForServer: by *"
+

@@ -1,0 +1,14 @@
+﻿#LOG_FORMAT=1
+#LOGID=2
+#LOGIV=
+#"","20221001194953","CubeSerialized: }StatsByCube: by *"
+#"","20221001194953","CubeSerialized: }StatsByClient: by *"
+#"","20221001194953","CubeSerialized: }StatsForServer: by *"
+#"","20221001194953","CubeSerialized: }StatsByCubeByClient: by *"
+#"","20221001194953","CubeSerialized: }StatsByProcess: by *"
+#"","20221001194953","CubeSerialized: }StatsByChore: by *"
+"","20221001194953","20221001194953","*","S","","ADMIN","}ClientGroups","Admin","ADMIN",""
+#"","20221001194953","CubeSerialized: }ClientGroups: by *"
+#"","20221001194953","CubeSerialized: }ClientProperties: by *"
+#"","20221001210038","CubeSerialized: }DimensionProperties: by Admin"
+

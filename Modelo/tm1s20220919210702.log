@@ -1,0 +1,23 @@
+#LOG_FORMAT=1
+#LOGID=2
+#LOGIV=
+#"","20220919210648","CubeSerialized: }StatsByCube: by *"
+#"","20220919210648","CubeSerialized: }StatsByClient: by *"
+#"","20220919210648","CubeSerialized: }StatsForServer: by *"
+#"","20220919210648","CubeSerialized: }StatsByCubeByClient: by *"
+#"","20220919210648","CubeSerialized: }StatsByProcess: by *"
+#"","20220919210648","CubeSerialized: }StatsByChore: by *"
+"","20220919210648","20220919210648","*","S","","ADMIN","}ClientGroups","Admin","ADMIN",""
+#"","20220919210648","CubeSerialized: }ClientGroups: by *"
+#"","20220919210648","CubeSerialized: }ClientProperties: by *"
+#"","20220919210702","CubeSerialized: }DimensionProperties: by *"
+#"","20220919210702","CubeSerialized: }ElementAttributes_}Clients: by *"
+#"","20220919210702","CubeSerialized: }ElementAttributes_}Cultures: by *"
+#"","20220919210702","CubeSerialized: }ElementAttributes_}Groups: by *"
+#"","20220919210702","CubeSerialized: }StatsByChore: by *"
+#"","20220919210702","CubeSerialized: }StatsByClient: by *"
+#"","20220919210702","CubeSerialized: }StatsByCube: by *"
+#"","20220919210702","CubeSerialized: }StatsByCubeByClient: by *"
+#"","20220919210702","CubeSerialized: }StatsByProcess: by *"
+#"","20220919210702","CubeSerialized: }StatsForServer: by *"
+

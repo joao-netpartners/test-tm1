@@ -1,0 +1,105 @@
+﻿389,100
+390,"Visualização1"
+370,0
+361,1
+362,1
+363,0
+364,0
+365,
+366,
+367,0
+376,1
+375,b:0.#########G|0|
+374,4
+7,05_Versao
+270,2
+Orçado
+Realizado
+274,
+275,
+281,0
+282,
+7,04_Ano
+270,3
+2021
+2022
+2023
+274,
+275,
+281,0
+282,
+7,04_Mes
+270,5
+Total Ano
+1o Tri
+2o Tri
+3o Tri
+4o Tri
+274,
+275,
+281,0
+282,
+7,02_Filial
+270,4
+Brasil
+Sudeste
+Nordeste
+Sul
+274,
+275,
+281,0
+282,
+360,1
+7,01_Receita_Margem
+270,7
+preco_unit
+vol_venda
+perc_reaj_preco
+receita
+custo
+margem
+perc_margem
+274,
+275,
+281,0
+282,
+371,1
+7,02_Produto
+270,6
+TOTAL PRODUCTS
+CAMPING EQUIPMENT
+GOLF EQUIPMENT
+MOUNTAINEERING EQUIPMENT
+OUTDOOR PROTECTION
+PERSONAL ACCESSORIES
+274,
+275,
+281,0
+282,
+373,4
+1,Orçado
+2,2022
+1,Total Ano
+1,Brasil
+372,0
+372,00
+384,0
+385,0
+377,4
+-9
+55
+1933
+1157
+378,0
+382,255
+379,6
+0
+0
+0
+0
+0
+0
+11,20220926205645
+381,0
+32,6
+null\n

@@ -1,0 +1,22 @@
+﻿#LOG_FORMAT=1
+#LOGID=d
+#LOGIV=
+#"","20220927145033","CubeSerialized: }CubeProperties: by R*SYS_Save_Data_All"
+#"","20220927145033","CubeSerialized: }DimensionProperties: by R*SYS_Save_Data_All"
+#"","20220927145033","CubeSerialized: }ElementAttributes_}Cultures: by R*SYS_Save_Data_All"
+#"","20220927145033","CubeSerialized: REC_Receita_Margem: by R*SYS_Save_Data_All"
+#"","20220927145033","CubeSerialized: }DimensionProperties: by R*SYS_Save_Data_All"
+#"","20220927145033","CubeSerialized: }ElementAttributes_04_Ano: by R*SYS_Save_Data_All"
+#"","20220927145033","CubeSerialized: }ElementAttributes_04_Mes: by R*SYS_Save_Data_All"
+"","20220927170947","20220927170947","Admin","S","20220927144127","20220927170947","}DimensionProperties","}Processes","LAST_TIME_UPDATED",""
+"","20220927171549","20220927171549","Admin","S","20220926152533","20220927171549","}DimensionProperties","}Views_REC_Receita_Margem","LAST_TIME_UPDATED",""
+"","20220927171629","20220927171629","Admin","S","20220927171549","20220927171629","}DimensionProperties","}Views_REC_Receita_Margem","LAST_TIME_UPDATED",""
+"","20220927171843","20220927171843","Admin","S","20220927171629","20220927171843","}DimensionProperties","}Views_REC_Receita_Margem","LAST_TIME_UPDATED",""
+#"","20220927172029","CubeSerialized: }CubeProperties: by Admin"
+#"","20220927172029","CubeSerialized: }CubeProperties: by Admin"
+"","20220927172352","20220927172352","Admin","S","20220927170947","20220927172352","}DimensionProperties","}Processes","LAST_TIME_UPDATED",""
+"","20220927172404","20220927172404","Admin","S","20220927172352","20220927172404","}DimensionProperties","}Processes","LAST_TIME_UPDATED",""
+"","20220927172938","20220927172938","Admin","S","20220927144659","20220927172938","}DimensionProperties","}Dimensions","LAST_TIME_UPDATED",""
+"","20220927173615","20220927173615","Admin","S","20220927172404","20220927173615","}DimensionProperties","}Processes","LAST_TIME_UPDATED",""
+"","20220927173630","20220927173630","Admin","S","20220927173615","20220927173630","}DimensionProperties","}Processes","LAST_TIME_UPDATED",""
+

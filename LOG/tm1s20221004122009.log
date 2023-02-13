@@ -1,0 +1,17 @@
+﻿#LOG_FORMAT=1
+#LOGID=d
+#LOGIV=
+#"","20221003205702","CubeSerialized: }DimensionProperties: by Admin"
+#"","20221003205702","CubeSerialized: }ElementAttributes_02_Filial: by Admin"
+#"","20221003205702","CubeSerialized: }ElementAttributes_02_Produto: by Admin"
+#"","20221003205702","CubeSerialized: }ElementAttributes_04_Mes: by Admin"
+#"","20221003205702","CubeSerialized: }ElementAttributes_}Cultures: by Admin"
+"","20221003210014","20221003210014","Admin","S","20221003205551","20221003210014","}DimensionProperties","}Views_dada","LAST_TIME_UPDATED",""
+"","20221003210014","20221003210014","Admin","S","20221003205539","20221003210014","}DimensionProperties","}Dimensions","LAST_TIME_UPDATED",""
+"","20221003210014","20221003210014","Admin","S","20221003205525","20221003210014","}DimensionProperties","}Cubes","LAST_TIME_UPDATED",""
+"","20221003211714","20221003211714","Admin","S","20221003210014","20221003211714","}DimensionProperties","}Dimensions","LAST_TIME_UPDATED",""
+"","20221003211719","20221003211719","Admin","S","20221003210014","20221003211719","}DimensionProperties","}Cubes","LAST_TIME_UPDATED",""
+"","20221004122000","20221004122000","Admin","S","20221003211714","20221004122000","}DimensionProperties","}Dimensions","LAST_TIME_UPDATED",""
+"","20221004122000","20221004122000","Admin","S","","20221004122000","}DimensionProperties","kkk","LAST_TIME_UPDATED",""
+"","20221004122000","20221004122000","Admin","S","","20221004122000","}DimensionProperties","}Hierarchies_kkk","LAST_TIME_UPDATED",""
+

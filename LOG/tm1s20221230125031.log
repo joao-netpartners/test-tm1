@@ -1,0 +1,21 @@
+﻿#LOG_FORMAT=1
+#LOGID=15
+#LOGIV=
+"","20221230124725","20221230124725","Admin","S","20221007170045","20221230124724","}DimensionProperties","}Cubes","LAST_TIME_UPDATED",""
+"","20221230124725","20221230124725","Admin","S","20221007170045","20221230124724","}DimensionProperties","}Dimensions","LAST_TIME_UPDATED",""
+"","20221230124725","20221230124725","Admin","S","20221003125511","20221230124724","}DimensionProperties","}ElementAttributes_04_Mes","LAST_TIME_UPDATED",""
+#"","20221230124725","CubeSerialized: }ElementAttributes_04_Mes: by Admin"
+"","20221230124725","20221230124725","Admin","S","20221003125511","20221230124725","}DimensionProperties","04_Mes","LAST_TIME_UPDATED",""
+"","20221230124725","20221230124725","Admin","S","20221003125511","20221230124725","}DimensionProperties","}Hierarchies_04_Mes","LAST_TIME_UPDATED",""
+"","20221230124725","20221230124725","Admin","S","","Jan","}ElementAttributes_04_Mes","Fev","PY",""
+"","20221230124725","20221230124725","Admin","S","","Fev","}ElementAttributes_04_Mes","Mar","PY",""
+"","20221230124725","20221230124725","Admin","S","","Mar","}ElementAttributes_04_Mes","Abr","PY",""
+"","20221230124725","20221230124725","Admin","S","","Abr","}ElementAttributes_04_Mes","Mai","PY",""
+"","20221230124725","20221230124725","Admin","S","","Mai","}ElementAttributes_04_Mes","Jun","PY",""
+"","20221230124725","20221230124725","Admin","S","","Jun","}ElementAttributes_04_Mes","Jul","PY",""
+"","20221230124725","20221230124725","Admin","S","","Jul","}ElementAttributes_04_Mes","Ago","PY",""
+"","20221230124725","20221230124725","Admin","S","","Ago","}ElementAttributes_04_Mes","Set","PY",""
+"","20221230124725","20221230124725","Admin","S","","Set","}ElementAttributes_04_Mes","Out","PY",""
+"","20221230124725","20221230124725","Admin","S","","Out","}ElementAttributes_04_Mes","Nov","PY",""
+"","20221230124725","20221230124725","Admin","S","","Nov","}ElementAttributes_04_Mes","Dez","PY",""
+
